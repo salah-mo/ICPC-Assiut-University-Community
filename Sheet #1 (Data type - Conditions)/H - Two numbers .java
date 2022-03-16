@@ -4,7 +4,7 @@ import java.util.Scanner;
  * @author Salah
  */
 
-public class G {
+public class H {
 
   public static void main(String[] args)
   {
