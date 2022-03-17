@@ -21,7 +21,9 @@ public class J {
     else if ((number2 > number1) && (div21 % 1 == 0))
     {
       System.out.println("Multiples");
-    } else if (div21 == div12) {
+    } 
+    else if (div21 == div12) 
+    {
       System.out.println("Multiples");
     }
     else
